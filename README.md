@@ -41,7 +41,7 @@ From the chart above one can deduce:
 By one look, the above chart makes Urban cities look more profitable/costly, however the chart doesn't truly reflect how much each ride costs. It is only upon looking at the bubble chart that one can pick up true reflection of cost of rides. The following chart reflects the average fare in the 3 different city types along with the number of rides taken and the drivers available in those city types (note: *circle size correlates with driver count per city*):
 
 <p align="center">
-<img src="/analysis/CityTypeData_report.png" width="100%" height="100%">
+<img src="/analysis/CityTypeData_report.png" width="80%" height="50%">
 </p>
 
 #### Conclusion
@@ -68,4 +68,4 @@ Following table outlines an important ratio that dictates how the fares rise and
 
 2. (*Refer to conclusion of chart: Total Fare by City Type*) The weekle fare of Urban cities is 10 times more than rural cities, however the fare per driver is 3.5 times less for urban drivers than rural drivers, and 2.5 times less than suburban drivers. The drivers in urban cities aren't earning as much as the drivers in other cities, therefore to prevent any loss of employees in future, the company should look at ***redistributing urban drivers into suburban areas***. This can be done by providing certain incentives (higher earning being one of them), advertising the benefits of the transition.
 
-3. Suburban cities have managed to hit a sweet spot with the number of drivers vs number of rides requested. Suburban cities have fair fares for the clients and fair earning for the drivers. The company should try to ***adopt the suburban model into other cities as well*** to retain clients as well as employees. This can be done by studying trying to achieve the ratios of the suburban cities in urban and rural cities.
+3. Suburban cities have managed to hit a sweet spot with the number of drivers vs number of rides requested. Suburban cities have fair fares for the clients and fair earning for the drivers. The company should try to ***adopt the suburban model into other cities as well*** to retain clients as well as employees. This can be done by studying trying to achieve the ratios of the suburban cities in urban and rural cities, keeping the ratio of drivers proportional to the demand of rides.
