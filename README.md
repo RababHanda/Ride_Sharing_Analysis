@@ -41,7 +41,7 @@ From the chart above one can deduce:
 By one look, the above chart makes Urban cities look more profitable/costly, however the chart doesn't truly reflect how much each ride costs. It is only upon looking at the bubble chart that one can pick up true reflection of cost of rides. The following chart reflects the average fare in the 3 different city types along with the number of rides taken and the drivers available in those city types (note: *circle size correlates with driver count per city*):
 
 <p align="center">
-<img src="/analysis/CityTypeData_report.png" width="80%" height="50%">
+<img src="/analysis/CityTypeData_report.png" width="75%" height="45%">
 </p>
 
 #### Conclusion
